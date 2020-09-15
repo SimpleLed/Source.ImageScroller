@@ -125,8 +125,8 @@ namespace Source.ImageScroller
                 Id = Guid.Parse("a9440d02-bba3-4e35-a9a3-28194acc0e2d"),
                 Author = "mad ninja",
                 Blurb = "Scroll images across your 2D devices",
-                CurrentVersion = new ReleaseNumber(1, 0, 0, 0),
-                GitHubLink = "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB",
+                CurrentVersion = new ReleaseNumber(1, 0, 0, 1),
+                GitHubLink = "https://github.com/SimpleLed/Source.ImageScroller",
                 IsPublicRelease = true,
                 SupportsCustomConfig = false
             };
